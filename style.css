@@ -24,7 +24,7 @@ h2{
   background-clip: text;
   -webkit-background-clip: text;
 }
-#p1,#p2{
+#p1,#p2,#p3{
     background-color: transparent;
     border: transparent;
     font-size: 20px ;
